@@ -1,0 +1,7 @@
+#Wed Dec 13 21:24:03 ICT 2017
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+override.workspace.settings=true
+gradle.user.home=D\:/gradle-4.3.1/bin
+connection.project.dir=
+offline.mode=false
+build.scans.enabled=false
