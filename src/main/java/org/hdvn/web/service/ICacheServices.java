@@ -3,14 +3,16 @@
  */
 package org.hdvn.web.service;
 
+import java.util.List;
+
+import org.hdvn.model.table.MProvince;
 import org.springframework.stereotype.Service;
 
 /**
  * @author Admin
  *
  */
-@Service(value="cacheServices")
 public interface ICacheServices {
 
-	
+	public List<MProvince> getMProvince();
 }

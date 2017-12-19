@@ -11,7 +11,6 @@ import org.springframework.stereotype.Repository;
  * @author Admin
  *
  */
-@Repository
 public abstract class AbstractDaoServices {
 
 	@Autowired
